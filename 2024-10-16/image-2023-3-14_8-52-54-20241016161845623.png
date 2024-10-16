@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript">
+        document.documentElement.setAttribute('lang', navigator.language);
+    </script>
+        
+
+
+
+
+
+
+                    
+    
+
+
+
+    
+        <title>로그인 - Wiki</title>
+    
+        
+        
+
+                        
+    
+                        
+    
+                        
+    
+
+            <meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="">
+<meta id="confluence-base-url" name="confluence-base-url" content="https://wiki.woowa.in">
+
+    <meta id="atlassian-token" name="atlassian-token" content="b106b0dde2b6ae7f3e9676f10b7d95900f2ef609">
+
+
+<script type="text/javascript">
+        var contextPath = '';
+</script>
+
+    
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="noarchive">
+    <meta name="confluence-request-time" content="1729063125534">
+        
+    
+        
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-discovered-plugin-features" content="$discoveredList">
+            <meta name="ajs-keyboardshortcut-hash" content="a564a2509742bc158b1115d232ee3a6a">
+            <meta name="ajs-spg-glossary-autohighlight" content="false"><meta name="ajs-spg-glossary-caseSensitiveHighlight" content="false"><meta name="ajs-spg-glossary-autohover" content="true"><meta name="ajs-spg-glossary-highlightAbbrs" content="false"><meta name="ajs-spg-glossary-highlightSyns" content="false"><meta name="ajs-spg-glossary-enabled-highlight" content="false">
+            <meta id="team-calendars-has-jira-link" content="true">
+            <meta name="ajs-team-calendars-display-time-format" content="displayTimeFormat24">
+            <meta id="team-calendars-display-week-number" content="false">
+            <meta id="team-calendars-user-timezone" content="ROK">
+            <script type="text/x-template" id="team-calendars-messages" title="team-calendars-messages"><fieldset class="i18n hidden"><input type="hidden" name="calendar3.month.long.july" value="7월"><input type="hidden" name="calendar3.day.short.wednesday" value="수"><input type="hidden" name="calendar3.day.short.thursday" value="목"><input type="hidden" name="calendar3.month.short.march" value="3월"><input type="hidden" name="calendar3.month.long.april" value="4월"><input type="hidden" name="calendar3.month.long.october" value="10월"><input type="hidden" name="calendar3.month.long.august" value="8월"><input type="hidden" name="calendar3.month.short.july" value="7월"><input type="hidden" name="calendar3.month.short.may" value="5월"><input type="hidden" name="calendar3.month.short.november" value="11월"><input type="hidden" name="calendar3.day.long.friday" value="금요일"><input type="hidden" name="calendar3.day.long.sunday" value="일요일"><input type="hidden" name="calendar3.day.long.saturday" value="토요일"><input type="hidden" name="calendar3.month.short.april" value="4월"><input type="hidden" name="calendar3.day.long.wednesday" value="수요일"><input type="hidden" name="calendar3.month.long.december" value="12월"><input type="hidden" name="calendar3.month.short.october" value="10월"><input type="hidden" name="calendar3.day.long.monday" value="월요일"><input type="hidden" name="calendar3.month.short.june" value="6월"><input type="hidden" name="calendar3.day.short.monday" value="월"><input type="hidden" name="calendar3.day.short.tuesday" value="화"><input type="hidden" name="calendar3.day.short.saturday" value="토"><input type="hidden" name="calendar3.month.long.march" value="3월"><input type="hidden" name="calendar3.month.long.june" value="6월"><input type="hidden" name="calendar3.month.short.february" value="2월"><input type="hidden" name="calendar3.month.short.august" value="8월"><input type="hidden" name="calendar3.month.short.december" value="12월"><input type="hidden" name="calendar3.day.short.sunday" value="일"><input type="hidden" name="calendar3.month.long.february" value="2월"><input type="hidden" name="calendar3.day.long.tuesday" value="화요일"><input type="hidden" name="calendar3.month.long.may" value="5월"><input type="hidden" name="calendar3.month.long.september" value="9월"><input type="hidden" name="calendar3.month.long.november" value="11월"><input type="hidden" name="calendar3.month.short.january" value="1월"><input type="hidden" name="calendar3.month.short.september" value="9월"><input type="hidden" name="calendar3.day.long.thursday" value="목요일"><input type="hidden" name="calendar3.month.long.january" value="1월"><input type="hidden" name="calendar3.day.short.friday" value="금"></fieldset></script>
+            <meta name="ajs-emojis-allow-current-user-upload-emojis" content="true">
+<meta name="ajs-emojis-max-upload-file-size" content="1">
+
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="50000">
+            <script type="text/x-template" title="gliffy-webpanel-footer">
+        <div class="gliffy-webpanel-footer"><span></span></div>
+</script>
+
+
+            
+    
+    
+            <meta name="ajs-context-path" content="">
+            <meta name="ajs-base-url" content="https://wiki.woowa.in">
+            <meta name="ajs-version-number" content="8.5.5">
+            <meta name="ajs-build-number" content="9012">
+            <meta name="ajs-remote-user" content="">
+            <meta name="ajs-remote-user-key" content="">
+            <meta name="ajs-remote-user-has-licensed-access" content="false">
+            <meta name="ajs-remote-user-has-browse-users-permission" content="false">
+            <meta name="ajs-current-user-fullname" content="">
+            <meta name="ajs-current-user-avatar-uri-reference" content="/images/icons/profilepics/anonymous.svg">
+            <meta name="ajs-static-resource-url-prefix" content="">
+            <meta name="ajs-global-settings-attachment-max-size" content="52428800">
+            <meta name="ajs-global-settings-quick-search-enabled" content="true">
+            <meta name="ajs-user-locale" content="ko_KR">
+            <meta name="ajs-user-timezone-offset" content="32400000">
+            <meta name="ajs-enabled-dark-features" content="site-wide.shared-drafts,site-wide.synchrony,clc.quick.create,confluence.view.edit.transition,cql.search.screen,confluence-inline-comments-resolved,http.session.registrar,nps.survey.inline.dialog,confluence.efi.onboarding.new.templates,atlassian.cdn.static.assets,pdf-preview,previews.sharing,previews.versions,file-annotations,confluence.efi.onboarding.rich.space.content,collaborative-audit-log,confluence.reindex.improvements,previews.conversion-service,editor.ajax.save,crowd.sync.nested.groups.group.membership.changes.batching.enabled,read.only.mode,graphql,previews.trigger-all-file-types,attachment.extracted.text.extractor,lucene.caching.filter,confluence.table.resizable,notification.batch,previews.sharing.pushstate,confluence-inline-comments-rich-editor,tc.tacca.dacca,topicEventPublisher,confluence.reindex.audit,site-wide.synchrony.opt-in,atlassian.webresource.twophase.js.i18n.disabled,confluence.denormalisedpermissions,file-annotations.likes,gatekeeper-ui-v2,v2.content.name.searcher,confluence.search.improvements.ranking,crowd.event.transformer.directory.manager.cache,mobile.supported.version,confluence.reindex.spaces,confluence.fast-xml-backup-restore,pulp,crowd.sync.delete.user.memberships.batching.enabled,confluence-inline-comments,confluence-inline-comments-dangling-comment,quick-reload-inline-comments-flags,confluence.retention.rules">
+            <meta name="ajs-atl-token" content="b106b0dde2b6ae7f3e9676f10b7d95900f2ef609">
+            <meta name="ajs-confluence-flavour" content="VANILLA">
+            <meta name="ajs-user-date-pattern" content="yyyy. M. d">
+            <meta name="ajs-access-mode" content="READ_WRITE">
+            <meta name="ajs-render-mode" content="READ_WRITE">
+            <meta name="ajs-date.format" content="yyyy-MM-dd">
+    
+    <link rel="shortcut icon" href="/s/ijv2uh/9012/8yg2g7/100/_/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/s/ijv2uh/9012/8yg2g7/100/_/favicon.ico">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch/osd.action" title="Wiki"/>
+
+    <script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-license-banner:confluence-license-banner-resources.license-details"]="{\u0022daysBeforeLicenseExpiry\u0022:0,\u0022daysBeforeMaintenanceExpiry\u0022:0,\u0022showLicenseExpiryBanner\u0022:false,\u0022showMaintenanceExpiryBanner\u0022:false,\u0022renewUrl\u0022:null,\u0022salesUrl\u0022:null}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-slack-server-integration-plugin:slack-link-error-resources.slack-link-error"]="{}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-types"]="{\u0022crowd\u0022:\u0022Crowd\u0022,\u0022confluence\u0022:\u0022\ucee8\ud50c\ub8e8\uc5b8\uc2a4\u0022,\u0022fecru\u0022:\u0022Fisheye / Crucible\u0022,\u0022stash\u0022:\u0022Stash\u0022,\u0022jira\u0022:\u0022Jira\u0022,\u0022refapp\u0022:\u0022\ucc38\uc870 \uc751\uc6a9\ud504\ub85c\uadf8\ub7a8\u0022,\u0022bamboo\u0022:\u0022\ubc40\ubd80\u0022,\u0022generic\u0022:\u0022\uc77c\ubc18 \uc751\uc6a9\ud504\ub85c\uadf8\ub7a8\u0022}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-feature-discovery-plugin:confluence-feature-discovery-plugin-resources.test-mode"]="false";
+WRM._unparsedData["net.junovi.confluence.blueprint-creator:third-party-integrations-data-provider.integrations-data"]="{\u0022blueprint-creator-page-integration\u0022:[],\u0022blueprint-creator-blog-integration\u0022:[],\u0022blueprint-creator-tree-integration\u0022:[]}";
+WRM._unparsedData["net.junovi.confluence.blueprint-creator:i18n-data-provider.i18n-data"]="{\u0022junovi.blueprint-creator.manage_page_blueprints.descendants.add-child-blueprint.title\u0022:\u0022Add child blueprint\u0022,\u0022junovi.blueprint-creator.settings.instruction.title\u0022:\u0022Instructions\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.edit_space_blueprint.title.label\u0022:\u0022Edit {0}\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_text.label\u0022:\u0022Text\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.table.page\u0022:\u0022Page / Blog post\u0022,\u0022junovi.blueprint-creator.admin.manage_page_blueprints.refresh_templates.description\u0022:\u0022It seems like you have been using regular Confluence templates. Please confirm to continue using them.\u0022,\u0022junovi.blueprint-creator.common.description\u0022:\u0022Description\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.table.load_more\u0022:\u0022Load more\u0022,\u0022junovi.blueprint-creator.integrations.wizard_configuration.third_party.edit_page_title\u0022:\u0022Congrats! You have enabled the Linchpin Enterprise News integration.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.field_type_select.set_as_labels.label\u0022:\u0022Set options as labels\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.empty.title\u0022:\u0022There is nothing here, yet\u0022,\u0022junovi.blueprint-creator.global_templates.info_panel.button_label\u0022:\u0022Manage Page Blueprints\u0022,\u0022junovi.blueprint-creator.read_only_mode.title\u0022:\u0022Read-only mode enabled\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.edit_space_blueprint.permission.title\u0022:\u0022Restrict Create Permission\u0022,\u0022junovi.blueprint-creator.placeholder_form.required.label\u0022:\u0022Mark as mandatory\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.edit_placeholder\u0022:\u0022Edit \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003e{0}\u005Cu003c/span\u005Cu003e\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.no_description_for_blueprint\u0022:\u0022No description available\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.date\u0022:\u0022Current Date\u0022,\u0022junovi.blueprint-creator.configpanel.settings.label\u0022:\u0022Settings\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.wizard_configuration.space_details_slide.label\u0022:\u0022Space Details\u0022,\u0022junovi.blueprint-creator.admin.section.manage_space_blueprints.label\u0022:\u0022Manage Space Blueprints\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.empty.description\u0022:\u0022Unleash the power of your Blueprints by working with placeholders.\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.descendants.add-child-blueprint.description.part-two\u0022:\u0022\u005Cu003cstrong\u005Cu003eNote:\u005Cu003c/strong\u005Cu003e Your page title configuration and some placeholder options are not supported within Page Tree Blueprints, hence will be disabled. \u005Cu003ca href\u005Cu003d\u005C\u0022https://junovi.atlassian.net/wiki/x/WgKGVw\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022noopener\u005C\u0022\u005Cu003eLearn more about Page Tree Blueprints here\u005Cu003c/a\u005Cu003e.\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.customized_permissions\u0022:\u0022Customized Space Permission Scheme\u0022,\u0022junovi.blueprint-creator.settings.content_type.title\u0022:\u0022Content type\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.blueprint_not_restricted\u0022:\u0022Restrict blueprint\u0022,\u0022junovi.blueprint-creator.admin.space_blueprint_labels.config.required.label\u0022:\u0022Make space category selection mandatory.\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.descendants.add-child-blueprint.description.part-one\u0022:\u0022Convert your Page Blueprint into a Page Tree Blueprint by adding a child blueprint.\u0022,\u0022junovi.blueprint-creator.placeholder_form.usermention.enable_multiuser_mention.hint\u0022:\u0022Per default only one user can be mentioned. By enabling multiple user mentions users get to mention more than one user.\u0022,\u0022junovi.blueprint-creator.admin.section.manage_space_blueprints.help_tips.content\u0022:\u0022Space Blueprints are pre-defined spaces that are displayed for users in the Create Space dialog.\u005Cu003cbr\u005Cu003e\u005Cu003ca href\u005Cu003d\u005C\u0022https://junovi.atlassian.net/wiki/x/BQA3Pg\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022noopener\u005C\u0022\u005Cu003e- Learn more about Space Blueprints\u005Cu003c/a\u005Cu003e\u0022,\u0022junovi.blueprint-creator.placeholder_form.usermention.enable_multiuser_mention.title\u0022:\u0022Multiple user mentions\u0022,\u0022junovi.blueprint-creator.common.error_creating_page.title\u0022:\u0022Error creating page\u0022,\u0022junovi.blueprint-creator.common.save\u0022:\u0022Save\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.edit_blueprint_dialog.title\u0022:\u0022Edit {0}\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_text.hint\u0022:\u0022Allows users to enter any combination of letters, numbers or symbols in one single line.\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_user_mention.hint\u0022:\u0022Allows users to mention each other using autocomplete.\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.customized_permissions.option_without_author\u0022:\u0022Apply Customized Space Permission Scheme (ignore Space Blueprint Author)\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.edit_space_blueprint.preview.label\u0022:\u0022Preview\u0022,\u0022junovi.blueprint-creator.admin.manage_page_blueprints.refresh_templates.label\u0022:\u0022Click here too see all templates\u0022,\u0022junovi.blueprint-creator.integrations\u0022:\u0022Integrations\u0022,\u0022junovi.blueprint-creator.settings.content_type_field.skip_edit_mode.label\u0022:\u0022Skip edit mode\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.wizard_configuration.placeholders_list.empty.message\u0022:\u0022No placeholders are assigned to this slide. You can either move existing placeholders from other slides here or create new one in the Page Blueprint Editor.\u0022,\u0022junovi.blueprint-creator.admin.section.manage_page_blueprints.label\u0022:\u0022Manage Page Blueprints\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.confluence_content\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003econfluence page\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.edit_space_blueprint.status\u0022:\u0022Active\u0022,\u0022junovi.utils.blueprint-table.tooltips.configure-title-prefix\u0022:\u0022Configure Page Title\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_multiline_text.hint\u0022:\u0022Allows users to enter any combination of letters, numbers or symbols in multiple lines.\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.intro\u0022:\u0022Restrict this Page Blueprint to spaces with specific space categories\u0022,\u0022junovi.blueprint-creator.common.cancel\u0022:\u0022Cancel\u0022,\u0022junovi.blueprint-creator.create_page.ghostwriting.author\u0022:\u0022Author\u0022,\u0022junovi.utils.autocomplete.user.input.too.short\u0022:\u0022Enter at least two letters\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_multi_select.hint\u0022:\u0022Allows users to select more than one value from a list that you define.\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.add_options.bulk.trigger.label\u0022:\u0022Enter a comma separated list\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.delete.title.label\u0022:\u0022Do you really want to delete the Space Blueprint {0}\u005Cu0027?\u0022,\u0022junovi.blueprint-creator.admin.section.manage_space_blueprints.no_blueprints_available.title\u0022:\u0022No Space Blueprints created yet\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.delete_blueprint_dialog.title\u0022:\u0022Delete Blueprint {0}?\u0022,\u0022junovi.blueprint-creator.admin.section.show_ghost_writing_log.label\u0022:\u0022Ghostwriting Audit-Log\u0022,\u0022junovi.blueprint-creator.global_templates.info_panel_message\u0022:\u0022To create and edit Page Blueprints with the Blueprint Creator please go to the overview page.\u0022,\u0022junovi.blueprint-creator.common.error_creating_page.message\u0022:\u0022It looks like there are errors in the form. Please check your entries.\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_date.title\u0022:\u0022Field type: Date\u0022,\u0022cache.name.net.junovi.confluence.blueprint-creator.cache.blueprintdescendants.v1\u0022:\u0022Blueprint Creator: Blueprint Descendants (per Blueprint)\u0022,\u0022junovi.blueprint-creator.notification.ghostwriting.soy.ghostwriter\u0022:\u0022Ghostwriter\u0022,\u0022junovi.blueprint-creator.settings.consecutivenumber.enable\u0022:\u0022Enable Consecutive Number field for prefix\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.update.success.body\u0022:\u0022Permission Scheme for \u005Cu003cstrong\u005Cu003e{0}\u005Cu003c/strong\u005Cu003e successfully updated\u0022,\u0022junovi.blueprint-creator.invalid.license\u0022:\u0022Your license for the Blueprint Creator App is not valid.\u0022,\u0022junovi.blueprint-creator.common.generic.error.title\u0022:\u0022An unknown error occurred, please contact an administrator!\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.use_as_label.label\u0022:\u0022Set selected options as labels\u0022,\u0022junovi.blueprint-creator.settings.title\u0022:\u0022Settings\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_date.label\u0022:\u0022Date\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.text\u0022:\u0022Text\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.help_and_tips.message\u0022:\u0022Page Blueprints give you an easy way to create new pages and blog posts based on pre-defined content. They help you capture relevant information when creating new pages.\u005Cu003cbr\u005Cu003e\u005Cu003ca href\u005Cu003d\u005C\u0022https://junovi.atlassian.net/wiki/x/WgKGVw\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022noopener\u005C\u0022\u005Cu003e- Learn more about Page Blueprints.\u005Cu003c/a\u005Cu003e\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.create_permissions.successfully_save\u0022:\u0022Successfully saved permissions\u0022,\u0022junovi.blueprint-creator.admin.section.manage_space_blueprints.help_tips.title\u0022:\u0022\u005Cu003cstrong\u005Cu003eHelp tips\u005Cu003c/strong\u005Cu003e\u0022,\u0022junovi.blueprint-creator.common.delete\u0022:\u0022Delete\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.successfully_restricted_blueprint\u0022:\u0022Blueprint {0} successfully restricted on spaces with categories: \u005Cu003cstrong\u005Cu003e{1}\u005Cu003c/strong\u005Cu003e\u0022,\u0022junovi.utils.blueprint-table.tooltips.configure-blueprint-form\u0022:\u0022Configure Page Blueprint Form\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_multi_select.label\u0022:\u0022Multiselect\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.customized_permissions.option_as_displayed\u0022:\u0022Apply Customized Space Permission Scheme (as displayed)\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.empty.description.learn_more_here\u0022:\u0022or learn more \u005Cu003ca href\u005Cu003d\u005C\u0022{0}\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022nofollow\u005C\u0022\u005Cu003ehere\u005Cu003c/a\u005Cu003e.\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_multiline_text.title\u0022:\u0022Field type: Multiline text\u0022,\u0022junovi.blueprint-creator.create_space.already_exists\u0022:\u0022A space with this space key already exists\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.descendants.add-child-to-child.description\u0022:\u0022Add another child blueprint to you Page Tree Blueprint.\u0022,\u0022junovi.blueprint-creator.settings.content_type_field.use_page.label\u0022:\u0022Page\u0022,\u0022junovi.blueprint-creator.common.name\u0022:\u0022Name\u0022,\u0022junovi.utils.blueprint-table.tooltips.edit\u0022:\u0022Edit\u0022,\u0022junovi.blueprint-creator.settings.prefix.config.separator.description\u0022:\u0022Enter separator\u0022,\u0022junovi.blueprint-creator.create_space.description.label\u0022:\u0022Description\u0022,\u0022junovi.blueprint-creator.settings.consecutivenumber.please_read_documentation_first\u0022:\u0022Please read our \u005Cu003ca href\u005Cu003d\u005C\u0022{0}\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022noopener\u005C\u0022\u005Cu003edocumentation\u005Cu003c/a\u005Cu003e first before using this feature.\u0022,\u0022junovi.utils.blueprint-table.tooltips.promote\u0022:\u0022Promote\u0022,\u0022junovi.blueprint-creator.common.next\u0022:\u0022Next\u0022,\u0022cache.name.net.junovi.confluence.blueprint-creator.cache.blueprints_used.ids.v1\u0022:\u0022Blueprint Creator: Blueprint Template IDs\u0022,\u0022junovi.blueprint-creator.blueprint_settings.editor.link_prompt.link.description\u0022:\u0022\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.date.pattern\u0022:\u0022MM-DD-YYYY hh:mm A\u0022,\u0022junovi.blueprint-creator.placeholder_successfully_created.body\u0022:\u0022Successfully created placeholder with name {0}\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.blueprint_available_in_every_space\u0022:\u0022Blueprint {0} is now available in every space.\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.delete.message\u0022:\u0022You cannot restore the Space Blueprint as it is permanently deleted.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.used_as_title_indicator\u0022:\u0022Title\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.existing_on_space\u0022:\u0022Available placeholders from other pages\u0022,\u0022junovi.blueprint-creator.admin.space_blueprint_labels.config.introduction\u0022:\u0022Add categories users get to choose from when creating a new space.\u0022,\u0022junovi.utils.autocomplete.user.no.results.found\u0022:\u0022No results found\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.add_options_field_placeholder\u0022:\u0022Add option\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.multiselect\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003emulti select\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.placeholder_form.description.label\u0022:\u0022Description\u0022,\u0022junovi.blueprint-creator.space_blueprint_banner.content\u0022:\u0022Go back to Space Blueprint Overview\u0022,\u0022junovi.blueprint-creator.page-blueprint-tree.prefix-config.description\u0022:\u0022You are about to create a new page tree. Here is a preview of your new pages.\u0022,\u0022junovi.blueprint-creator.create_page.ghostwriting.description.title\u0022:\u0022Ghostwriting mode is enabled\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_multiselect.title\u0022:\u0022Field type: Multiselect\u0022,\u0022junovi.blueprint-creator.settings.prefix.config.text.description\u0022:\u0022Enter text\u0022,\u0022junovi.blueprint-creator.settings_successfully_saved.body\u0022:\u0022Successfully saved settings\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_multiline_text.label\u0022:\u0022Multiline text\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.table.author\u0022:\u0022Author\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.separator\u0022:\u0022Separator\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.space_categories_linked_with_and\u0022:\u0022Space must match all selected categories.\u0022,\u0022junovi.blueprint-creator.common.placeholders\u0022:\u0022Placeholders\u0022,\u0022junovi.blueprint-creator.settings.description.title\u0022:\u0022Description\u0022,\u0022junovi.blueprint-creator.create_space.space_key.label\u0022:\u0022Space key\u0022,\u0022junovi.blueprint-creator.common.create\u0022:\u0022Create\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.delete.success.body\u0022:\u0022Space Blueprint \u005Cu003cstrong\u005Cu003e{0}\u005Cu003c/strong\u005Cu003e deleted\u0022,\u0022junovi.blueprint-creator.common.back\u0022:\u0022Back\u0022,\u0022junovi.blueprint-creator.blueprint_settings.editor.link_prompt.description\u0022:\u0022Link the selected text. A link will always open in a new browser tab. To test a link double-click it inside the editor.\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.delete.message\u0022:\u0022You cannot restore the Page Blueprint as it is permanently deleted.\u0022,\u0022junovi.blueprint-creator.settings_successfully_saved.title\u0022:\u0022Success\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.descendants.edit-child-to-child.description\u0022:\u0022Edit name of child blueprint\u0022,\u0022junovi.blueprint-creator.settings.content_type.hint\u0022:\u0022You can use templates to create pages or blog posts.\u0022,\u0022junovi.blueprint-creator.settings.instruction.help_text_field.placeholder\u0022:\u0022Provide a help text for your authors\u0022,\u0022junovi.blueprint-creator.create_space.space_name.label\u0022:\u0022Space name\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.spacekey\u0022:\u0022Space key\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_field_type.title\u0022:\u0022Field types\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.add_options.single.trigger.label\u0022:\u0022Enter options separately\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.hidden_placeholders\u0022:\u0022Hidden Placeholders\u0022,\u0022junovi.utils.blueprint-table.tooltips.add-child-blueprint\u0022:\u0022Add Child Blueprint\u0022,\u0022junovi.blueprint-creator.common.close\u0022:\u0022Close\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.table.title.label\u0022:\u0022Description\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.update.success.body\u0022:\u0022Space Blueprint \u005Cu003cstrong\u005Cu003e{0}\u005Cu003c/strong\u005Cu003e updated\u0022,\u0022junovi.blueprint-creator.page-blueprint-tree.prefix-config.input.hint\u0022:\u0022Customise your new page titles by adding a prefix to them.\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.wizard_configuration.add_slide.label\u0022:\u0022Add slide\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_select.label\u0022:\u0022Select\u0022,\u0022junovi.blueprint-creator.create_space.categories_hint\u0022:\u0022Enter category and confirm with enter\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.existing_on_page\u0022:\u0022Placeholders on this page\u0022,\u0022junovi.blueprint-creator.settings.instruction.help_text_field.label\u0022:\u0022Help text\u0022,\u0022junovi.blueprint-creator.migration.properties.check_out.part_0\u0022:\u0022Check out\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.more_info.create_and_edit_blueprints\u0022:\u0022Create and edit blueprints\u0022,\u0022junovi.blueprint-creator.migration.properties.check_out.part_1\u0022:\u0022Properties\u0022,\u0022junovi.blueprint-creator.migration.properties.check_out.part_2\u0022:\u0022to organize your metadata in a new and easier way.\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.title_prefix_dialog.title\u0022:\u0022Page Title Configuration\u0022,\u0022junovi.blueprint-creator.admin.space_blueprint_labels.config.add_failed.message\u0022:\u0022Category contains invalid characters.\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.wizard_configuration.title.label\u0022:\u0022Configure Space Blueprint Form\u0022,\u0022junovi.blueprint-creator.integrations.wizard_configuration.third_party.content\u0022:\u0022This integration adds three slides to the Blueprint Form that will capture your blog posts metadata. \u005Cu003ca href\u005Cu003d\u005C\u0022https://junovi.atlassian.net/wiki/x/ggCOS\u005C\u0022 target\u005Cu003d\u005C\u0022_blank\u005C\u0022 rel\u005Cu003d\u005C\u0022noopener\u005C\u0022\u005Cu003eLearn more here.\u005Cu003c/a\u005Cu003e\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.title.label\u0022:\u0022Configure Permission Scheme\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.title.label\u0022:\u0022Create Space Blueprint\u0022,\u0022junovi.utils.blueprint-table.tooltips.unpromote\u0022:\u0022Unpromote\u0022,\u0022junovi.blueprint-creator.documentation_link.label\u0022:\u0022Documentation\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.label\u0022:\u0022Page Blueprints\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.customized_permissions.explanation\u0022:\u0022Customized Space Permissions can be set individually in the Space Permissions sections of Space Blueprints.\u0022,\u0022junovi.utils.blueprint-table.tooltips.move-mode\u0022:\u0022Sort Blueprints\u0022,\u0022junovi.blueprint-creator.settings.prefix.description\u0022:\u0022Add a customized prefix to titles of new pages that are created using your blueprint.\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.help_tips.title\u0022:\u0022\u005Cu003cstrong\u005Cu003eHelp tips\u005Cu003c/strong\u005Cu003e\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_confluence_content.hint\u0022:\u0022Allows users to link to an existing Confluence page or blog post using autocomplete.\u0022,\u0022junovi.blueprint-creator.configpanel.title\u0022:\u0022Blueprint Creator - Configuration Panel\u0022,\u0022junovi.blueprint-creator.integration.comala_document_management.tooltip\u0022:\u0022Copy placeholder ID to clipboard\u0022,\u0022junovi.blueprint-creator.settings.prefix.config.date.description\u0022:\u0022Pick date format\u0022,\u0022junovi.blueprint-creator.settings.instruction.hint\u0022:\u0022Give your authors a helping hand by providing background information or guidance within the Create dialog.\u0022,\u0022cache.name.net.junovi.confluence.blueprint-creator.cache.blueprintdescendants.templateids.v1\u0022:\u0022Blueprint Creator: Template IDs of Blueprint Descendants\u0022,\u0022junovi.blueprint-creator.placeholder_form.usermention.enable_multiuser_mention_field.label\u0022:\u0022Enable multi-user mention\u0022,\u0022junovi.blueprint-creator.settings.consecutivenumber.starting_at\u0022:\u0022Start at\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.default_permissions.explanation\u0022:\u0022These are the permissions (see Default Space Permission Scheme) that will be assigned to user groups when a new space is created using any Space Blueprint.\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_select.title\u0022:\u0022Field type: Select\u0022,\u0022junovi.blueprint-creator.admin.space_blueprint_labels.config.title\u0022:\u0022Categories\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.title-prefix.description\u0022:\u0022Add a customised prefix to titles of new pages that are created using your Page Blueprint.\u005Cu003cbr /\u005Cu003e\u005Cu003cstrong\u005Cu003eNote:\u005Cu003c/strong\u005Cu003e When adding child blueprints the configuration will be disabled.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.date\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003edate\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.settings.view_mode.title\u0022:\u0022View type\u0022,\u0022junovi.blueprint-creator.common.add\u0022:\u0022Add\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.add_options.label\u0022:\u0022Options\u0022,\u0022junovi.blueprint-creator.admin.section.label\u0022:\u0022Blueprint Creator\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.space_categories_linked_with_or\u0022:\u0022Space must contain one of the selected categories.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.select_field_type\u0022:\u0022Select a field type\u0022,\u0022junovi.blueprint-creator.settings.content_type_field.use_blogpost.label\u0022:\u0022Blog post\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.create_permissions.label\u0022:\u0022Assign permissions\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_text.title\u0022:\u0022Field type: Text\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.selection\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003eselect\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.admin.section.global_blueprints.desc\u0022:\u0022Settings for global blueprints\u0022,\u0022junovi.blueprint-creator.settings.icon.hint\u0022:\u0022Assign an individual icon to the blueprint.\u0022,\u0022junovi.blueprint-creator.settings.description.hint\u0022:\u0022The description displays in the Create dialog, and is useful for explaining the purpose of your blueprint to other users.\u0022,\u0022junovi.blueprint-creator.migration.properties.title\u0022:\u0022Migrating to Confluence Cloud?\u0022,\u0022junovi.blueprint-creator.common.ok\u0022:\u0022Ok\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.spacename\u0022:\u0022Space name\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.user\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003euser mention\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_date.hint\u0022:\u0022Allows users to pick a date from a calendar.\u0022,\u0022junovi.blueprint-creator.invalid.license.title\u0022:\u0022Invalid license\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.enter_spacelabels_label\u0022:\u0022Space categories\u0022,\u0022junovi.blueprint-creator.global_templates.collapsible.see_default_blueprints\u0022:\u0022See default blueprints\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.table.ghostwriter\u0022:\u0022Ghostwriter\u0022,\u0022junovi.blueprint-creator.placeholder_successfully_created.title\u0022:\u0022Success\u0022,\u0022junovi.blueprint-creator.editor.title_prefix.indicator_prefix\u0022:\u0022Prefix:\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.empty.description.start_now\u0022:\u0022Start now\u0022,\u0022junovi.blueprint-creator.settings.description_field.placeholder\u0022:\u0022Description of blueprint (maximum of 100 chars)\u0022,\u0022junovi.blueprint-creator.editor.title_prefix.none_selected\u0022:\u0022No prefix specified\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_user_mention.label\u0022:\u0022User mention\u0022,\u0022junovi.blueprint-creator.admin.section.restrict_global_blueprints.label\u0022:\u0022Restrict Global Blueprints\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.field_type_select.add_new_option.label\u0022:\u0022Add new option\u0022,\u0022junovi.blueprint-creator.placeholder_form.select.add_options.bulk_placeholder\u0022:\u0022Enter a comma separated list of options for users to select from\u0022,\u0022junovi.blueprint-creator.admin.ghostwriting_log.table.created\u0022:\u0022Created\u0022,\u0022junovi.blueprint-creator.configpanel.add_new_placeholder_label\u0022:\u0022New placeholder\u0022,\u0022junovi.blueprint-creator.notification.ghostwriting.soy.page\u0022:\u0022Page\u0022,\u0022junovi.blueprint-creator.placeholder_form.hidden.label\u0022:\u0022Hide in editor\u0022,\u0022junovi.blueprint-creator.settings.prefix.title\u0022:\u0022Prefix\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.edit_space_blueprint.permission.desc\u0022:\u0022Leave blank to apply the default Create space permission.\u0022,\u0022junovi.blueprint-creator.placeholder_form.text.title_field.label\u0022:\u0022Set as page title\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.wizard_configuration.placeholders_list.empty.message\u0022:\u0022No placeholders are assigned to this slide. You can either move existing placeholders from other slides here or create new one in the Space Blueprint Editor.\u0022,\u0022junovi.blueprint-creator.common.reset\u0022:\u0022Reset\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.also_delete_children.label\u0022:\u0022Also delete children blueprints\u0022,\u0022junovi.blueprint-creator.read_only_mode.body\u0022:\u0022The read-only mode has been enabled on your Confluence Data Center site. To create or edit placeholders the read-only mode has to be disabled by an administrator.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.field_type_setting.mandatory\u0022:\u0022Mark as mandatory\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.create_permissions.description\u0022:\u0022By default only Confluence administrators can create, edit, or delete Space Blueprints. You can extend these privileges to additional user groups.\u0022,\u0022junovi.blueprint-creator.settings.content_type_field.skip_edit_mode.description\u0022:\u0022Skip edit mode and publish new pages immediately\u0022,\u0022junovi.blueprint-creator.configpanel.preview.label\u0022:\u0022Preview\u0022,\u0022junovi.blueprint-creator.admin.section.manage_space_blueprints.no_blueprints_available.message\u0022:\u0022Press \u005C\u0022Create Space Blueprint\u005C\u0022 to define a new space blueprint.\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.blueprint_restriction_dialog_description\u0022:\u0022Select one or more categories of the space(s) you want to make this blueprint available for.\u0022,\u0022junovi.blueprint-creator.migration.properties.contact_us.part_3\u0022:\u0022schedule a free and compact product demo with us.\u0022,\u0022junovi.blueprint-creator.admin.space_blueprint_labels.add_new_label.input.placeholder\u0022:\u0022Add new category\u0022,\u0022junovi.blueprint-creator.settings.instruction.headline_field.label\u0022:\u0022Headline\u0022,\u0022junovi.blueprint-creator.migration.properties.contact_us.part_2\u0022:\u0022to learn more about Properties or\u0022,\u0022junovi.blueprint-creator.migration.properties.contact_us.part_1\u0022:\u0022Contact us\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.text\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003etext\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.settings.ghostwriting.title\u0022:\u0022Allow users to create pages/blogposts in the name of other users\u0022,\u0022junovi.blueprint-creator.create_page.ghostwriting.view_permissions\u0022:\u0022View permissions\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.create-page-blueprint\u0022:\u0022Create Page Blueprint\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.create.success.body\u0022:\u0022Space Blueprint \u005Cu003cstrong\u005Cu003e{0}\u005Cu003c/strong\u005Cu003e successfully created\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_select.hint\u0022:\u0022Allows users to select one value from a list that you define.\u0022,\u0022junovi.blueprint-creator.create_page.ghostwriting.description.body\u0022:\u0022You can name an user as author of the page/blog post you are about to create. Your action will be logged and can be reviewed by an administrator.\u0022,\u0022junovi.blueprint-creator.common.delete_with_prop\u0022:\u0022Delete {0}\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.default_permissions\u0022:\u0022Default Space Permission Scheme\u0022,\u0022junovi.blueprint-creator.settings.consecutivenumber.next_possible_number\u0022:\u0022Value must be at least {0}.\u0022,\u0022junovi.blueprint-creator.settings.icon.title\u0022:\u0022Icon\u0022,\u0022junovi.blueprint-creator.placeholder_form.name.label\u0022:\u0022Name\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.wizard_configuration.title.label\u0022:\u0022Configure Page Blueprint Form\u0022,\u0022junovi.blueprint-creator.create_page.ghostwriting.edit_permissions\u0022:\u0022Edit permissions\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.permissionscheme.introduction\u0022:\u0022Each space in Confluence has its own set of permissions which are set upon creation. You can choose one of the following permission schemes that will be applied initially.\u0022,\u0022junovi.blueprint-creator.settings.instruction.headline_field.placeholder\u0022:\u0022Headline\u0022,\u0022junovi.blueprint-creator.settings.prefix.type.consecutivenumber\u0022:\u0022Consecutive number\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.placeholder_list.existing_in_blueprint\u0022:\u0022Placeholders\u0022,\u0022junovi.blueprint-creator.add_placeholder_dialog.add_confluence_content.label\u0022:\u0022Confluence page\u0022,\u0022junovi.blueprint-creator.blueprint_settings.editor.link_prompt.edit_link.title\u0022:\u0022Edit link\u0022,\u0022junovi.blueprint-creator.notification.ghostwriting.title\u0022:\u0022You have been named author of a newly created page / blog post.\u0022,\u0022junovi.blueprint-creator.placeholder_sidebar.add_new.multilinetext\u0022:\u0022Create new \u005Cu003cspan class\u005Cu003dfield-type-label\u005Cu003emultiline text\u005Cu003c/span\u005Cu003e field\u0022,\u0022junovi.blueprint-creator.manage_space_blueprints.wizard.update.success.body\u0022:\u0022Space Blueprint Form configuration for \u005Cu003cstrong\u005Cu003e{0}\u005Cu003c/strong\u005Cu003e successfully updated\u0022,\u0022junovi.blueprint-creator.common.confirm\u0022:\u0022Confirm\u0022,\u0022junovi.blueprint-creator.admin.global_blueprints_restrictions.more_info.learn_more_about_space_categories\u0022:\u0022Learn more about space categories\u0022,\u0022junovi.blueprint-creator.blueprint_settings.editor.link_prompt.add_link.title\u0022:\u0022Add link\u0022,\u0022junovi.blueprint-creator.placeholder_form.new_user_mention.title\u0022:\u0022Field type: User mention\u0022,\u0022junovi.utils.blueprint-table.tooltips.delete\u0022:\u0022Delete\u0022,\u0022junovi.blueprint-creator.manage_page_blueprints.delete_descendant.message\u0022:\u0022You cannot restore the child blueprint as it is permanently deleted.\u0022}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.entity-types"]="{\u0022singular\u0022:{\u0022refapp.charlie\u0022:\u0022Charlie\u0022,\u0022fecru.project\u0022:\u0022Crucible \ud504\ub85c\uc81d\ud2b8\u0022,\u0022fecru.repository\u0022:\u0022FishEye \uc800\uc7a5\uc18c\u0022,\u0022stash.project\u0022:\u0022Stash \ud504\ub85c\uc81d\ud2b8\u0022,\u0022generic.entity\u0022:\u0022\uc77c\ubc18 \ud504\ub85c\uc81d\ud2b8\u0022,\u0022confluence.space\u0022:\u0022\ucee8\ud50c\ub8e8\uc5b8\uc2a4 \uacf5\uac04\u0022,\u0022bamboo.project\u0022:\u0022\ubc40\ubd80 \ud504\ub85c\uc81d\ud2b8\u0022,\u0022jira.project\u0022:\u0022Jira \ud504\ub85c\uc81d\ud2b8\u0022},\u0022plural\u0022:{\u0022refapp.charlie\u0022:\u0022Charlies\u0022,\u0022fecru.project\u0022:\u0022Crucible \ud504\ub85c\uc81d\ud2b8\u0022,\u0022fecru.repository\u0022:\u0022FishEye \uc800\uc7a5\uc18c\u0022,\u0022stash.project\u0022:\u0022Stash \ud504\ub85c\uc81d\ud2b8\u0022,\u0022generic.entity\u0022:\u0022\uc77c\ubc18 \uc0ac\uc5c5\u0022,\u0022confluence.space\u0022:\u0022\ucee8\ud50c\ub8e8\uc5b8\uc2a4 \uacf5\uac04\u0022,\u0022bamboo.project\u0022:\u0022\ubc40\ubd80 \ud504\ub85c\uc81d\ud2b8\u0022,\u0022jira.project\u0022:\u0022Jira \ud504\ub85c\uc81d\ud2b8\u0022}}";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:programmatic-analytics-init.programmatic-analytics-data-provider"]="false";
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\u0022\u0022";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:policy-update-init.policy-update-data-provider"]="false";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.authentication-types"]="{\u0022com.atlassian.applinks.api.auth.types.BasicAuthenticationProvider\u0022:\u0022\uae30\ubcf8 \uc811\uadfc\u0022,\u0022com.atlassian.applinks.api.auth.types.TrustedAppsAuthenticationProvider\u0022:\u0022\uc2e0\ub8b0\ud558\ub294 \uc751\uc6a9\ud504\ub85c\uadf8\ub7a8\u0022,\u0022com.atlassian.applinks.api.auth.types.CorsAuthenticationProvider\u0022:\u0022CORS\u0022,\u0022com.atlassian.applinks.api.auth.types.OAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthWithImpersonationAuthenticationProvider\u0022:\u0022OAuth\u0022}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-search-ui-plugin:confluence-search-ui-plugin-resources.i18n-data"]="{\u0022search.ui.recent.link.text\u0022:\u0022\ub354 \ucd5c\uadfc\uc5d0 \ubc29\ubb38\ud55c \ud56d\ubaa9 \ubcf4\uae30\u0022,\u0022search.ui.search.results.empty\u0022:\u0022\u005C\u0022{0}\u005C\u0022\uc5d0 \uc77c\uce58\ud558\ub294 \uac80\uc0c9 \uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.\u0022,\u0022search.ui.filter.clear.selected\u0022:\u0022\uc120\ud0dd\ub41c \ud56d\ubaa9 \uc9c0\uc6b0\uae30\u0022,\u0022search.ui.content.name.search.items.panel.load.all.top.items.button.text\u0022:\u0022\uc571 \uac80\uc0c9 \uacb0\uacfc \ub354 \ubcf4\uae30...\u0022,\u0022search.ui.filter.contributor.button.text\u0022:\u0022\uae30\uc5ec\uc790\u0022,\u0022search.ui.filter.space.current.label\u0022:\u0022\ud604\uc7ac\u0022,\u0022search.ui.clear.input.button.text\u0022:\u0022\ud14d\uc2a4\ud2b8 \uc9c0\uc6b0\uae30\u0022,\u0022search.ui.search.results.clear.button\u0022:\u0022\ud544\ud130\ub97c \uc9c0\uc6b0\uc2ed\uc2dc\uc624.\u0022,\u0022help.search.ui.link.title\u0022:\u0022\uac80\uc0c9 \ub3c4\uc6c0\ub9d0\u0022,\u0022search.ui.container.close.text\u0022:\u0022\ub2eb\uae30\u0022,\u0022search.ui.filter.date.month.text\u0022:\u0022\uc9c0\ub09c \ub2ec\u0022,\u0022search.ui.infinite.scroll.button.text\u0022:\u0022\ub354 \ub9ce\uc740 \uacb0\uacfc\u0022,\u0022search.ui.filter.date.button.text\u0022:\u0022\ub0a0\uc9dc\u0022,\u0022search.ui.filter.date.week.text\u0022:\u0022\uc9c0\ub09c \uc8fc\u0022,\u0022search.ui.result.subtitle.calendar\u0022:\u0022\ud300 \uce98\ub9b0\ub354\u0022,\u0022search.ui.filter.date.heading\u0022:\u0022\ub2e4\uc74c \uae30\uac04 \uc911 \ucd5c\uc885 \uc218\uc815\u0022,\u0022search.ui.filter.space.input.label\u0022:\u0022\uc2a4\ud398\uc774\uc2a4 \ucc3e\uae30...\u0022,\u0022search.ui.generic.error\u0022:\u0022\ubb38\uc81c\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4. \ubb38\uc81c\uac00 \uc9c0\uc18d\ub418\uba74 \ud398\uc774\uc9c0\ub97c \uc0c8\ub85c\uace0\uce68\ud558\uac70\ub098 \uad00\ub9ac\uc790\uc5d0\uac8c \ubb38\uc758\ud558\uc2ed\uc2dc\uc624.\u0022,\u0022search.ui.recent.spaces\u0022:\u0022\ucd5c\uadfc \uc2a4\ud398\uc774\uc2a4\u0022,\u0022search.ui.result.subtitle.space\u0022:\u0022\uc2a4\ud398\uc774\uc2a4\u0022,\u0022search.ui.filter.space.category.input.label\u0022:\u0022\uc2a4\ud398\uc774\uc2a4 \ubc94\uc8fc \ucc3e\uae30...\u0022,\u0022search.ui.filter.space.archive.label\u0022:\u0022\ubcf4\uad00\ub41c \uc2a4\ud398\uc774\uc2a4 \uac80\uc0c9\u0022,\u0022search.ui.filter.label\u0022:\u0022\ud544\ud130\u0022,\u0022search.ui.filter.date.all.text\u0022:\u0022\uc5b8\uc81c\ub77c\ub3c4\u0022,\u0022search.ui.filter.date.hour.text\u0022:\u0022\uc9c0\ub09c \ub0a0\uc9dc\u0022,\u0022search.ui.filters.heading\u0022:\u0022\ud544\ud130\ub9c1 \uae30\uc900\u0022,\u0022search.ui.filter.label.input.label\u0022:\u0022\ub808\uc774\ube14 \ucc3e\uae30...\u0022,\u0022search.ui.recent.items.anonymous\u0022:\u0022\ud0d0\uc0c9\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4. \uac80\uc0c9 \uacb0\uacfc\uac00 \uc5ec\uae30\uc5d0 \ub098\ud0c0\ub0a9\ub2c8\ub2e4.\u0022,\u0022search.ui.input.label\u0022:\u0022\uac80\uc0c9\u0022,\u0022search.ui.input.aria.label\u0022:\u0022\uac80\uc0c9, \uc785\ub825\ud558\uba74 \uacb0\uacfc\uac00 \uc544\ub798\uc5d0 \ud45c\uc2dc\ub429\ub2c8\ub2e4.\u0022,\u0022search.ui.search.result\u0022:\u0022{0,choice,1#{0}\uac1c \uac80\uc0c9 \uacb0\uacfc|1\u003c{0}\uac1c \uac80\uc0c9 \uacb0\uacfc}\u0022,\u0022search.ui.filter.label.button.text\u0022:\u0022\ub808\uc774\ube14\u0022,\u0022search.ui.container.clear.ariaLabel\u0022:\u0022\uc9c0\uc6b0\uae30\u0022,\u0022search.ui.input.alert\u0022:\u0022Enter \ud0a4\ub97c \ub20c\ub7ec \uac80\uc0c9 \uc2dc\uc791\u0022,\u0022search.ui.filter.no.result.text\u0022:\u0022\uadc0\ud558\uc758 \uac80\uc0c9\uacfc \uc77c\uce58\ud558\ub294 \uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.\u0022,\u0022search.ui.result.subtitle.user\u0022:\u0022\uc0ac\uc6a9\uc790 \ud504\ub85c\ud544\u0022,\u0022search.ui.filter.contributor.input.label\u0022:\u0022\uc0ac\ub78c \ucc3e\uae30...\u0022,\u0022search.ui.filter.content.type.button.text\u0022:\u0022\uc720\ud615\u0022,\u0022search.ui.filter.date.year.text\u0022:\u0022\uc9c0\ub09c \ud574\u0022,\u0022search.ui.advanced.search.link.text\u0022:\u0022\uace0\uae09 \uac80\uc0c9\u0022,\u0022search.ui.filter.space.button.text\u0022:\u0022\uc2a4\ud398\uc774\uc2a4\u0022,\u0022search.ui.search.results.clear.line2\u0022:\u0022\ub2e4\ub978 \uac80\uc0c9\uc5b4\ub85c \uc2dc\ub3c4\ud558\uac70\ub098\u0022,\u0022search.ui.filter.space.category.button.text\u0022:\u0022\uc2a4\ud398\uc774\uc2a4 \ubc94\uc8fc\u0022,\u0022search.ui.search.results.clear.line1\u0022:\u0022\uadc0\ud558\uc758 \uac80\uc0c9\uacfc \uc77c\uce58\ud558\ub294 \uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.\u0022,\u0022search.ui.content.name.search.items.panel.load.all.top.items.admin.button.text\u0022:\u0022\uc124\uc815 \ubc0f \uc571 \uac80\uc0c9 \uacb0\uacfc \ub354 \ubcf4\uae30...\u0022,\u0022search.ui.recent.pages\u0022:\u0022\ucd5c\uadfc \ubc29\ubb38\u0022,\u0022search.ui.search.result.anonymous\u0022:\u0022{0,choice,1#{0}\uac1c \uac80\uc0c9 \uacb0\uacfc|1\u003c{0}\uac1c \uac80\uc0c9 \uacb0\uacfc}\uac00 \uc788\uc2b5\ub2c8\ub2e4. \uacc4\uc815\uc774 \uc788\uc73c\uc2ed\ub2c8\uae4c? {1}\ub85c\uadf8\uc778{2}\ud574\uc11c \uac80\uc0c9 \uacb0\uacfc\ub97c \ud655\uc7a5\ud558\uc2ed\uc2dc\uc624.\u0022,\u0022search.ui.recent.items.empty\u0022:\u0022\ud0d0\uc0c9\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4. \ucd5c\uadfc\uc5d0 \ubc29\ubb38\ud55c \ud398\uc774\uc9c0 \ubc0f \uc2a4\ud398\uc774\uc2a4\uac00 \uc5ec\uae30\uc5d0 \ub098\ud0c0\ub0a9\ub2c8\ub2e4.\u0022,\u0022search.ui.filter.space.init.heading\u0022:\u0022\ucd5c\uadfc \uc2a4\ud398\uc774\uc2a4\u0022}";
+WRM._unparsedData["net.junovi.confluence.blueprint-creator:space-blueprints-data-provider.space-blueprints-data"]="[{\u0022id\u0022:1,\u0022name\u0022:\u0022\ud300 \uc704\ud0a4 \ud0a4\ud2b8\u0022,\u0022description\u0022:\u0022\u0022,\u0022active\u0022:true,\u0022spaceKey\u0022:\u0022rrZqFlCMYV\u0022,\u0022restrictedUsers\u0022:[],\u0022restrictedGroups\u0022:[],\u0022groups\u0022:[{\u0022id\u0022:1,\u0022title\u0022:\u0022\ud300 \uc704\ud0a4 \ud0a4\ud2b8\u0022,\u0022position\u0022:0,\u0022mandatory\u0022:true,\u0022placeholders\u0022:[]}],\u0022requiredGroup\u0022:{\u0022id\u0022:1,\u0022title\u0022:\u0022\ud300 \uc704\ud0a4 \ud0a4\ud2b8\u0022,\u0022position\u0022:0,\u0022mandatory\u0022:true,\u0022placeholders\u0022:[]},\u0022permissionSchemeInheritance\u0022:\u0022GLOBAL\u0022,\u0022blueprintLabels\u0022:{\u0022spaceBlueprintId\u0022:1,\u0022labels\u0022:[],\u0022defaultLabels\u0022:[],\u0022labelsRequired\u0022:false},\u0022icon\u0022:\u0022account_balance\u0022,\u0022modified\u0022:\u0022Dec 9, 2022 10:03:17 AM\u0022}]";
+WRM._unparsedData["com.atlassian.confluence.plugins.synchrony-interop:synchrony-status-banner-loader.synchrony-status"]="false";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-help-paths"]="{\u0022entries\u0022:{\u0022applinks.docs.root\u0022:\u0022https://confluence.atlassian.com/display/APPLINKS-091/\u0022,\u0022applinks.docs.diagnostics.troubleshoot.sslunmatched\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthsignatureinvalid\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthtimestamprefused\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.delete.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.adding.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administration.guide\u0022:\u0022Application+Links+Documentation\u0022,\u0022applinks.docs.oauth.security\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.troubleshoot.application.links\u0022:\u0022Troubleshoot+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownerror\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.trusted.apps\u0022:\u0022Configuring+Trusted+Applications+authentication+for+an+application+link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelunsupported\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.ssluntrusted\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownhost\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.delete.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.adding.project.link\u0022:\u0022Configuring+Project+links+across+Applications\u0022,\u0022applinks.docs.link.applications\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthproblem\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.migration\u0022:\u0022Update+application+links+to+use+OAuth\u0022,\u0022applinks.docs.relocate.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administering.entity.links\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.upgrade.application.link\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.connectionrefused\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.oauth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.insufficient.remote.permission\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.configuring.application.link.auth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics\u0022:\u0022Application+links+diagnostics\u0022,\u0022applinks.docs.configured.authentication.types\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.adding.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unexpectedresponse\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.basic\u0022:\u0022Configuring+Basic+HTTP+Authentication+for+an+Application+Link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelmismatch\u0022:\u0022OAuth+troubleshooting+guide\u0022}}";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link rel="stylesheet" href="/s/d8b611da0591beeca04e8574ee67844e-CDN/ijv2uh/9012/8yg2g7/60134ddd3f759aa8d3a53dd0125fd71d/_/download/contextbatch/css/_super,-com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-perf-observer/batch.css" data-wrm-key="_super,-com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-perf-observer" data-wrm-batch-type="context" media="all">
+<link rel="stylesheet" href="/s/85aded984d32e6df43893124b5aff573-CDN/ijv2uh/9012/8yg2g7/713717ef2fd9a6722b6cbd6d5395b631/_/download/contextbatch/css/refined.main,main,atl.general,-_super/batch.css?hostenabled=true&amp;slack-enabled=true" data-wrm-key="refined.main,main,atl.general,-_super" data-wrm-batch-type="context" media="all">
+<link rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/ijv2uh/9012/8yg2g7/3.7.22/_/download/resources/net.junovi.confluence.blueprint-creator:page-template-icons-resource/template-icons.css?batch=false" data-wrm-key="net.junovi.confluence.blueprint-creator:page-template-icons-resource" data-wrm-batch-type="resource" media="all">
+<link rel="stylesheet" href="/s/a9fb9fcb4032c2c3294bbd85bef2ca6d-CDN/ijv2uh/9012/8yg2g7/9dbf5819b6dc5b478f13800655db8c0c/_/download/contextbatch/css/login,-_super/batch.css" data-wrm-key="login,-_super" data-wrm-batch-type="context" media="all">
+<link rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/ijv2uh/9012/8yg2g7/7.4.3/_/download/batch/com.refinedwiki.confluence.plugins.theme.original:print-style/com.refinedwiki.confluence.plugins.theme.original:print-style.css?content-type=text%2Fcss&amp;media=print" media="print" data-wrm-key="com.refinedwiki.confluence.plugins.theme.original:print-style" data-wrm-batch-type="resource">
+<link rel="stylesheet" href="/s/ijv2uh/9012/8yg2g7/100/_/styles/colors.css" media="all">
+<link rel="stylesheet" href="/s/ijv2uh/9012/8yg2g7/7.4.3/_/download/resources/com.refinedwiki.confluence.plugins.theme.original:RefinedWikiTheme50/default-theme.css" media="all">
+<link rel="stylesheet" href="/s/ijv2uh/9012/8yg2g7/7.4.3/_/download/resources/com.refinedwiki.confluence.plugins.theme.original:RefinedWikiTheme50/atlassian-editor.css" media="all">
+<link rel="stylesheet" href="/s/ijv2uh/9012/8yg2g7/100/_/styles/custom.css" media="all">
+<script data-wrm-key="com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-perf-observer" data-wrm-batch-type="resource" data-initially-rendered>
+!function(){"use strict";if("PerformanceObserver"in window){const e=[];window.__observedResources=e;const r=e=>"script"===e?"script":"css";new PerformanceObserver((n=>{n.getEntries().filter((({initiatorType:e,name:r})=>{const n="script"===e||((e,r)=>"link"===e&&"css"===new URL(r).pathname.split(".").pop())(e,r),i=new URL(location.href).origin===new URL(r).origin;return n&&i})).forEach((({name:n,transferSize:i,encodedBodySize:s,initiatorType:o})=>{e.push([i,s,n,r(o)])}))})).observe({type:"resource"})}}();
+
+</script>
+<script src="/s/3482ac265c8a4c30ae85527712ebe649-CDN/ijv2uh/9012/8yg2g7/60134ddd3f759aa8d3a53dd0125fd71d/_/download/contextbatch/js/_super,-com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-perf-observer/batch.js?locale=ko-KR" data-wrm-key="_super,-com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-perf-observer" data-wrm-batch-type="context" data-initially-rendered></script>
+<script src="/s/7a94dc2f487c104f238fef7bf0d78d36-CDN/ijv2uh/9012/8yg2g7/713717ef2fd9a6722b6cbd6d5395b631/_/download/contextbatch/js/refined.main,main,atl.general,-_super/batch.js?hostenabled=true&amp;locale=ko-KR&amp;slack-enabled=true" data-wrm-key="refined.main,main,atl.general,-_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script src="/s/38c6ea86ee0c5394312d29554ff015c9-CDN/ijv2uh/9012/8yg2g7/1.0/_/download/batch/confluence.web.resources:login/confluence.web.resources:login.js?locale=ko-KR" data-wrm-key="confluence.web.resources:login" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="module">WRM.requireLazily(["wr!com.atlassian.plugins.atlassian-plugins-webresource-rest:data-collector-async"])</script>
+    
+
+        
+    
+
+            
+            
+            
+            
+                    
+            
+                    
+
+        
+
+
+
+
+	
+	
+	<script>
+						if (typeof RW === 'undefined') {
+			var RW = {};
+		}
+
+		if (typeof RWJS === 'undefined') {
+		  var RWJS = {};
+		}
+						RWJS.showLoader = function(){
+		  console.warn("RWJS.showLoader access from velocity deprecated");
+		}
+        RWJS.hideLoader = function(){
+          console.warn("RWJS.hideLoader access from velocity deprecated");
+		}
+
+
+		        RW._versionChecker = {
+            comparedTo66: 1,
+            comparedTo614: 1,
+            comparedTo70: 1,
+            comparedTo74: 1,
+            comparedTo710: 1,
+            comparedTo712: 1
+        };
+
+                        
+                    RW._isConfluenceAdministrator = false;
+                    RW._isConfluenceOrRefinedAdmin = false;
+
+                    RW._defaultApplinks = 'https://jira.woowa.in';
+
+		                RW._isSiteAdministrator = false;
+
+					RW._blogPortalEnabled = false;
+		
+                RW._isHtmlModuleDisabled = false;
+				RW._userDashboardsEnabled = true;
+
+        RW._canViewProfiles = false;
+				
+				RW._cacheSettings = {};
+        RW._cacheSettings.params = {};
+        RW._cacheSettings.lastChange = {};
+
+            
+                        RW._cacheSettings.params['footer'] = true;
+                                        RW._cacheSettings.params['userdetails'] = true;
+                                        RW._cacheSettings.params['globalmenu'] = true;
+                                        RW._cacheSettings.params['usercategory'] = true;
+                                        RW._cacheSettings.params['category'] = true;
+                                        RW._cacheSettings.params['docache'] = true;
+                                                                    RW._cacheSettings.lastChange['footer'] = 1729038836991;
+                                        RW._cacheSettings.lastChange['userdetails'] = 1729035343600;
+                                        RW._cacheSettings.lastChange['globalmenu'] = 1729038836991;
+                                        RW._cacheSettings.lastChange['usercategory'] = 1729035343599;
+                                        RW._cacheSettings.lastChange['category'] = 1729052900410;
+            
+                                    RW._siteId = 0;
+            RW._siteName = '우아한형제들';
+            RW._siteType = '';
+                    RW._clusterNodeId = '';
+        RW._rootCategoryKey = ''; // The active root category
+        RW._categoryKey = '';
+        RW._categoryName = '';
+        RW._spaceName = '';
+        RW._spaceKey = '';
+        RW._pageId = '';
+
+        // Keyboard shortcuts add-on status
+        RW.shortcutsEnabled = function() {
+            return Confluence && Confluence.KeyboardShortcuts && Confluence.KeyboardShortcuts.enabled;
+        };
+
+        // Different Home Context
+                    
+        // Layout preview draft status
+        RW._isDraftPreview = function() {
+          return window.location.href.indexOf('draft=true') >= 0;
+        }
+
+        // Check if layouteditor can be executed
+        RW._isLayoutEditorAvailable = function() {
+          // Layout Preview mode is off
+          if (!RW._isDraftPreview()) {
+            // Layouteditor is invisible
+            if (document.querySelector('#rw_layouteditor').style.display === 'none') {
+              return true;
+            }
+		  }
+		  return null;
+        };
+	</script>
+
+
+
+
+			
+	
+
+<!--[if !IE]><!-->
+ 	<style type="text/css">
+		.rw_toolbar_menu li .rw_toolbar_dropdown li a:hover
+		{
+			color: #222222;
+			background: #EBECF0;
+		}
+
+		/* Scroll office fix */
+		#com-k15t-confluence-scroll-pdf-launcher:hover
+		{
+			color: #222222;
+			background: #EBECF0;
+		}
+	</style>
+<!--<![endif]-->
+
+
+
+
+
+
+
+			
+	    <script>
+        window.RW._theme = {"id":5,"name":"Clean","version":54,"date":null,"niceDate":null,"author":null,"comment":null,"systemType":null,"hidden":false,"type":"content","attributes":{"appearance_variant":"full","header_variant":"1row","headerText_colour":"#fff","headerBackground_active":"colour","headerBackground_colour":"rgba(4, 62, 54, 1)","headerBackgroundImageProperties_active":"full","headerBackgroundImagePosition_percent":50,"headerHeight_selected":"default","headerWidth_size":"98%","logoSize_selected":"medium","searchTheme_selected":"light","bodyBackground_active":"colour","bodyBackground_colour":"rgba(242, 244, 246, 1)","bodyBackgroundImageProperties_active":"full","bodyBackgroundImagePosition_percent":50,"createButtonColour_colour":"rgba(26, 124, 255, 1)","contentWidth_size":"95%","contentHeaderTheme_selected":"menu_solid","footerTheme_selected":"light","navmenu_variant":"traditional","navMenuTextSize_selected":"regular","navMenuTextColour_colour":"rgba(68, 68, 68, 1)","navMenuActiveBackground_active":"colour","navMenuActiveBackground_colour":"rgba(244, 248, 254, 1)","navMenuActiveTextColour_colour":"rgba(26, 124, 255, 1)","navMenuHoverBackground_active":"colour","navMenuHoverBackground_colour":"rgba(246, 250, 255, 1)","navMenuHoverTextColour_colour":"rgba(26, 124, 255, 1)","navMenuDropDownTheme_selected":"light","navMenuActiveUnderlineColour_colour":"rgba(45, 184, 177, 1)","navMenuHoverUnderlineColour_colour":"rgba(45, 184, 177, 1)","spaceTheme_selected":"spaces_white1","siteHomeTheme_selected":"dashboards_gray1","popupTheme_selected":"light","sidebarBackground_colour":"rgba(238, 240, 242, 1)","sidebarFontColour_colour":"rgba(102, 102, 102, 1)","sidebarHoverBackground_colour":"rgba(85, 85, 85, 1)","sidebarHoverFontColour_colour":"#FFFFFF","keyNavColour_colour":"rgba(26, 124, 255, 1)","contentShadow_selected":"effects_off","contentShadowColour_colour":"rgba(255, 255, 255, 1)","contentCorners_boolean":true,"corners_boolean":true,"bodyBackground_second_colour":"rgba(237, 237, 237, 1)","headerCentered_boolean":false,"navMenuCorners_boolean":true},"active":null,"canEdit":false,"icon":null,"features":null,"themeCssUri":"/plugins/servlet/rw-resources/themes/5/css/theme-5-54.css"};
+    </script>
+	
+
+	<link type="text/css" rel="stylesheet" href="/plugins/servlet/rw-resources/themes/5/css/theme-5-54.css" media="all">
+
+
+			<style type="text/css">
+  #rw_wrapper.rw_effects_popup_shadow .rw_shadow_top { width: calc(100% + 40px); }
+  #rw_wrapper.rw_effects_popup_shadow .rw_shadow_top:after { width: calc(100% - 40px); }
+  #rw_wrapper.rw_effects_popup_border .rw_shadow_top { width: calc(100% + 2px); }
+</style>
+
+
+
+                
+<style type="text/css">
+	/* Key navigation in popup */
+	.rw_key_nav li.rw_selected a {
+        background-color: rgba(26, 124, 255, 1) !important;
+        border-color: rgba(26, 124, 255, 1) !important;
+                box-shadow: none;
+    }
+    .rw_key_nav li.rw_selected * { color: #fff !important; }
+    .rw_key_nav li.rw_selected a span.rw_item_left { background: none !important; border-color:unset !important;}
+
+	/* Key navigation category menu */
+	#rw_category_menu ul li.rw_active.rw_selected a > span { border-color: rgba(26, 124, 255, 1); }
+
+	/* Confluence questions  */
+	.rw_navigation_module_questions ul li.rw_selected { background: rgba(26, 124, 255, 1); }
+	.rw_category_dd_theme_dark #rw_category_dropdown_wrapper .rw_navigation_module_questions ul li.rw_selected { background: rgba(26, 124, 255, 1); }
+
+	/* Key navigation for page tree */
+	.rw_pagetree_list li.rw_selected > div.rw_icon_content { background: rgba(26, 124, 255, 1) !important; border-color: rgba(26, 124, 255, 1) !important; }
+	.rw_pagetree_list li.rw_selected > div.rw_icon_content a { color:#fff !important;}
+	.rw_pagetree_list li.rw_selected a {background: none !important; border-color: unset; color:#333 !important;}
+
+	/* Key navigation for activity popup */
+	li.rw_selected div.rw_no_link { background: rgba(26, 124, 255, 1) !important; border-color: rgba(26, 124, 255, 1) !important; }
+    .rw_popup_design_default .rw_popup .rw_activity_module .rw_selected,
+    .rw_popup_design_confluence .rw_popup .rw_activity_module .rw_selected {
+        background: rgba(26, 124, 255, 1) !important;
+    }
+
+	/* Main Key Navigation */
+	.rw_keynavigation_row > div.rw_selected { background: rgba(26, 124, 255, 1) !important; color:#fff !important;}
+	.rw_keynavigation_container > div.rw_keynavigation_empty_item { background: none;}
+
+    /* Key Navigation in search module */
+    .rw_search_module_results ul li.rw_selected a {
+        background: rgba(26, 124, 255, 1) !important;
+        border-color: rgba(26, 124, 255, 1) !important;
+        color: #fff;
+    }
+
+	/* Menu keynav exceptions */
+	#notifications-anchor.rw_selected {background: rgba(26, 124, 255, 1) !important; color:#fff !important;}
+
+
+	
+
+	#rw_menu_bar #rw_create_button .aui-button,
+	#rw_inline_dialog_page_menu #rw_create_button .aui-button,
+    .rw_create_blogpost_button.aui-button
+	{
+	  background-image: -moz-linear-gradient(top, #0065FF, #0057dc);
+	  background-image: -ms-linear-gradient(top,  #0065FF, #0057dc);
+	  background-image: -webkit-linear-gradient(top,  #0065FF, #0057dc);
+	  background-image: -o-linear-gradient(top,  #0065FF, #0057dc);
+	  background-image: linear-gradient(top,  #0065FF, #0057dc);
+	  text-shadow: none;
+	  color: #ffffff;
+	}
+
+    #rw_menu_bar #rw_create_button .aui-button,
+    #rw_inline_dialog_page_menu #rw_create_button .aui-button,
+    .rw_create_blogpost_button.aui-button
+    {
+      border-color: #0065FF;
+    }
+    #rw_main #rw_create_button .aui-button:hover,
+    #rw_main #rw_create_button .aui-button:focus,
+    #rw_inline_dialog_page_menu #rw_create_button .aui-button:hover,
+    #rw_inline_dialog_page_menu #rw_create_button .aui-button:focus,
+    .rw_create_blogpost_button.aui-button:hover,
+    .rw_create_blogpost_button.aui-button:focus
+    {
+      background-image: -moz-linear-gradient(top, #2e81ff, #025be4);
+      background-image: -ms-linear-gradient(top, #2e81ff, #025be4);
+      background-image: -webkit-linear-gradient(top, #2e81ff, #025be4);
+      background-image: -o-linear-gradient(top, #2e81ff, #025be4);
+      background-image: linear-gradient(top, #2e81ff, #025be4);
+    }
+
+    .rw_create_blogpost_button.aui-button {
+	  border: 0;
+    }
+    .rw_create_blogpost_button.aui-button:hover {
+      color: #ffffff;
+	}
+
+
+		
+
+
+    	        #com-atlassian-confluence #inline-dialog-notifications-miniview
+        {
+            position:fixed;
+            top: 57px !important;
+            right: 80px !important;
+			margin: 0px !important;
+        }
+        #com-atlassian-confluence #inline-dialog-notifications-miniview:after,
+        #com-atlassian-confluence #inline-dialog-notifications-miniview:before
+        {
+            border: medium solid transparent;
+            bottom: 100%;
+            content: " ";
+            height: 0;
+            pointer-events: none;
+            position: absolute;
+            width: 0;
+        }
+        #com-atlassian-confluence #inline-dialog-notifications-miniview:after
+        {
+
+            border-color: rgba(237, 237, 237, 0) rgba(237, 237, 237, 0) rgba(237, 237, 237, 0) #fff;
+            border-width: 8px;
+            top:22px;
+            right: -15px;
+        }
+        #com-atlassian-confluence #inline-dialog-notifications-miniview:before
+        {
+            border-color: rgba(221, 221, 221, 0) rgba(221, 221, 221, 0) rgba(221, 221, 221, 0) #ddd;
+            border-width: 10px;
+            top: 20px;
+            right: -19px;
+        }
+        #com-atlassian-confluence #inline-dialog-notifications-miniview #arrow-notifications-miniview
+        {
+            display:none;
+        }
+	
+		
+</style>
+
+
+
+    <!--
+<div id="notificationdismissed" style="display:none;" class="aui-message a-custom-context closeable"> 
+<p style="font-size:20px"><strong><font color="black">[공지] 우형+우청 구성원은 <font color="red">VPN 로그인 시 사용하는 ID, 비밀번호</font>로 WIKI에 로그인해주세요.</strong></p>
+<br>
+<p><strong>우형 + 우청 구성원은 로그인 방식이 AD계정으로 변경되었습니다.</strong></p>  
+<p><strong><font color="black">만약 비밀번호를 계속 틀려서 캡챠화면이 보인다면, <a href="https://woowahan.slack.com/archives/CMX3L86LC" target="_blank">#support-it</a>에 문의해주세요.</strong></p>
+<br>
+<p><strong><font color="black">이 공지를 확인하신 구성원은 오른쪽 끝에 'X' 를 눌러주세요 </strong></p> 
+</div> 
+<script> 
+    function setCookie(cname, cvalue, exdays = 999) {
+      const d = new Date();
+      d.setTime(d.getTime() + exdays * 24 * 60 * 60 * 1000);
+      const expires = 'expires=' + d.toUTCString();
+      document.cookie = cname + '=' + cvalue + ';' + expires + ';path=/';
+    }
+    function getCookie(cname) {
+      const cookies = Object.fromEntries(
+        document.cookie.split(/; /).map(c => {
+          const [key, v] = c.split('=', 2);
+          return [key, decodeURIComponent(v)];
+        }),
+      );
+      return cookies[cname] || '';
+    }
+    var checkCookie = getCookie('notificationdismissed');
+    if (!checkCookie){ 
+        document.getElementById('notificationdismissed').style.display = 'block'; 
+    } 
+    document.addEventListener('click', function (e) { 
+        var msgid = e.target.parentElement.id; 
+        var msgtargetclass = e.target.className; 
+        if (msgid == "notificationdismissed" && (msgtargetclass == "aui-close-button" || msgtargetclass == "aui-icon icon-close") ) { 
+            setCookie('notificationdismissed', 'true', 7)
+        } 
+    });  
+</script>
+-->
+<script>
+jQuery(document).ready(function() {
+    jQuery(".external-link").attr("target", "_blank");
+});
+</script>
+
+<script>
+function disableCopyAttachments() {
+  var timer = setTimeout(disableCopyAttachments, 10);
+  if ( $('#copy-attachments').is(':checked')) {
+   setTimeout(function() {$('#copy-attachments').removeAttr('checked');}, 50);
+   clearTimeout(timer);
+  }
+   if ( $('#copy-attachments-2').is(':checked')) {
+   setTimeout(function() {$('#copy-attachments-2').removeAttr('checked');}, 50);
+   clearTimeout(timer);
+  }
+}
+
+$(document).on('click', '#action-copy-page-link', function() {
+    disableCopyAttachments();
+});
+
+$(document).on('click', '#copy-dialog-next', function() {
+    disableCopyAttachments();
+});
+
+$(document).on('click', '#copy-page-hierarchy-back', function() {
+    disableCopyAttachments();
+});
+</script>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var liToRemove = document.querySelector('li[data-web-item-key="export"]');
+    if (liToRemove) {
+      liToRemove.parentNode.removeChild(liToRemove);
+    }
+  });
+</script>
+
+
+
+<script type="text/javascript" src="https://product-cdn.platform.baemin.in/public/wiki-tracker/wiki-tracker.js"></script>
+
+<!-- Google tag (gtag.js) 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-THGKKS2NBG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-THGKKS2NBG');
+</script>
+-->
+
+    
+
+    
+</head>
+
+
+<body      id="com-atlassian-confluence" class=" rw_version_6 login aui-layout aui-theme-default">
+
+
+
+        
+            <div id='stp-licenseStatus-banner'></div>
+                <meta name="ajs-blueprint-template-ids" content="[1217953928, 1217953930, 1217953934, 538738689, 604602415, 875134978, 1217953957, 604602441, 946503714, 604602432, 946503712, 474513412, 604602437, 676626433, 946503694, 677838849, 988578433, 677838856, 677838871, 611516417, 677838867, 946503710, 544899084, 677838865, 946503708, 611516426, 677838878, 946503697, 544899078, 677838874, 946503700, 747339787, 881688590, 988578411, 881688581, 881688583, 881688577, 988578400, 546766855, 747339801, 546766852, 747339807, 988578425, 881688597, 988578420, 1217953793, 988578422, 747339798, 988578417, 988578383, 480706563, 747339822, 480706561, 747339820, 614727692, 881688609, 683507731, 683507725, 683507727, 747339827, 683507716, 683507718, 988578350, 1217953877, 818937857, 988578360, 550895617, 617775115, 617775112, 988578352, 1217953914, 881688680, 988578314, 988578310, 1217953906, 881688678, 1217953908, 1217953909, 881688675, 881688674, 881688702, 1217953899, 881688697, 988578328, 881688699, 1217953902, 988578326, 881688688, 1217953894, 621379592, 827949149, 624066595, 827949128, 827949131, 624066593, 624066599, 624066602, 287244290, 827949126, 824377346, 690978821, 624066563, 690978845, 827949153, 690978838, 624066569, 624066574, 624066572, 827949081, 960790532, 827949080, 960790533, 557907971, 827949083, 557907973, 560922665, 560922658, 827949058, 827949112, 560922633, 827949118, 827949104, 560922628, 560922625, 627703813, 827949110, 560922653, 560922649, 827949102, 560922640, 563085332, 563085334, 630784018, 630784021, 898400257, 898400258, 563085313, 968065058, 563085315, 563085317, 563085319, 766148660, 968065044, 968065050, 630784051, 766148609, 968065055, 968065053, 766148613, 766148634, 563085346, 766148627, 968065034, 766148625, 968065039, 904986677, 904986661, 904986670, 904986641, 568393730, 904986648, 704413708, 904986626, 704413706, 904986630, 904986633, 904986639, 704413699, 988578028, 988578026, 1178206268, 973864971, 638353412, 988578021, 638353415, 988578023, 973864961, 1178206252, 973864980, 977797201, 988578038, 977797205, 1178206234, 988577992, 574062609, 1178206227, 988577990, 988577985, 574062593, 1178206210, 574062604, 1178206209, 641695746, 440205314, 574062600, 1178206330, 977797130, 988577967, 977797132, 1178206335, 988577952, 977797127, 977797144, 977797147, 988577977, 977797139, 1178206305, 442368003, 977797141, 977797160, 988577932, 578519065, 988577928, 977797166, 988577930, 1178206288, 578519056, 578519063, 578519061, 1178206283, 645267460, 1178206281, 1178206286, 578519054, 988577945, 578519042, 977797169, 1178206272, 988577938, 1178206395, 1178206393, 988577898, 1178206386, 1178206390, 1178206383, 988577908, 988577907, 988577861, 648642562, 1178206356, 1178206347, 1178206344, 988577887, 515211265, 1178206350, 718897176, 583761929, 583761934, 583761932, 583761921, 718897171, 583761926, 718897175, 988577852, 718897165, 583761939, 988577844, 583761937, 988577846, 652017665, 988577805, 586809362, 988577793, 586809352, 653688836, 586809358, 988577817, 586809347, 988577814, 988577808, 586809349, 988577811, 988578274, 988578250, 988578241, 657948673, 988578261, 988578263, 988578256, 725975045, 793542668, 988578220, 725975044, 725975047, 1131348012, 725975041, 988578216, 988578218, 524419077, 591396872, 1131348006, 725975055, 725975049, 725975051, 659881989, 988578239, 591396885, 659881987, 793542683, 659881992, 793542674, 1131348017, 1131347983, 793542701, 793542697, 988578185, 988578181, 988578176, 988578205, 595165185, 1131347991, 1131347989, 528449539, 1131347987, 528449537, 595165190, 598245417, 732430377, 931397637, 988578159, 327516161, 933789741, 598245409, 732430370, 988578150, 598245411, 933789732, 598245413, 933789734, 988578146, 598245415, 866025489, 598245433, 866025487, 866025485, 866025482, 988578169, 732430399, 598245424, 598245427, 732430387, 988578167, 598245428, 933789748, 732430390, 988578162, 866025473, 732430344, 988578124, 598245385, 598245390, 933789711, 598245377, 732430339, 598245382, 598245400, 666435593, 532086790, 598245404, 988578136, 532086786, 732430365, 598245406, 666435585, 598245394, 598245396, 532086794, 666435588, 532086793, 666435590, 732430359, 933789719, 988578092, 988578094, 988578090, 601849879, 601849876, 669679654, 601849871, 534183942, 988578109, 601849869, 466911233, 534183937, 601849862, 534183945, 598245440, 732430402, 669679617, 669679622, 669679642, 669679639, 669679636]"/>
+
+    <meta name="ajs-empty-blueprint-template-ids" content="[988578028, 988578026, 1178206268, 973864971, 638353412, 988578021, 638353415, 988578023, 973864961, 1217953928, 1217953930, 1217953934, 973864980, 977797201, 988578038, 538738689, 977797205, 988577992, 574062609, 604602415, 1178206227, 988577990, 875134978, 988577985, 574062593, 1178206210, 574062604, 1178206209, 641695746, 1217953957, 440205314, 574062600, 604602441, 1178206330, 977797130, 988577967, 977797132, 1178206335, 946503714, 604602432, 946503712, 474513412, 604602437, 988577952, 977797127, 977797144, 977797147, 676626433, 988577977, 977797139, 1178206305, 442368003, 977797141, 977797160, 988577932, 578519065, 946503694, 988577928, 677838849, 977797166, 988577930, 1178206288, 578519056, 578519063, 988578433, 578519061, 677838856, 1178206283, 611516417, 645267460, 1178206281, 677838867, 946503710, 1178206286, 578519054, 988577945, 544899084, 677838865, 946503708, 578519042, 611516426, 677838878, 977797169, 1178206272, 946503697, 544899078, 677838874, 946503700, 988577938, 747339787, 1178206395, 881688590, 1178206393, 988577898, 988578411, 881688581, 1178206386, 881688583, 881688577, 988578400, 1178206390, 546766855, 747339801, 747339807, 988578425, 1178206383, 881688597, 988577908, 988578420, 1217953793, 988578422, 747339798, 988578417, 988577907, 480706563, 747339822, 480706561, 747339820, 614727692, 988577861, 648642562, 881688609, 683507731, 1178206356, 683507725, 1178206347, 683507727, 1178206344, 988577887, 515211265, 747339827, 683507716, 683507718, 583761929, 988578350, 583761934, 583761932, 583761921, 718897171, 583761926, 1217953877, 718897175, 988577852, 818937857, 718897165, 988578360, 550895617, 583761939, 988577844, 617775115, 583761937, 617775112, 988577846, 652017665, 988578352, 988577805, 881688680, 988578314, 988578310, 881688678, 1217953908, 988577793, 1217953909, 881688675, 881688674, 586809352, 653688836, 881688702, 1217953899, 586809358, 881688697, 988578328, 988577817, 881688699, 1217953902, 586809347, 988577814, 988578326, 881688688, 1217953894, 586809349, 988577811, 621379592, 827949149, 988578274, 624066595, 827949128, 827949131, 624066593, 624066599, 827949126, 824377346, 988578250, 690978821, 988578241, 624066563, 690978845, 657948673, 827949153, 988578261, 624066569, 988578263, 624066574, 988578256, 624066572, 725975045, 793542668, 827949081, 960790532, 988578220, 725975044, 827949080, 960790533, 557907971, 725975047, 827949083, 1131348012, 725975041, 988578216, 560922665, 988578218, 524419077, 591396872, 1131348006, 725975055, 725975049, 725975051, 659881989, 988578239, 591396885, 659881987, 827949058, 659881992, 793542674, 1131348017, 1131347983, 793542701, 827949112, 988578185, 827949118, 827949104, 988578181, 988578176, 627703813, 827949110, 988578205, 560922649, 827949102, 595165185, 1131347991, 1131347989, 528449539, 1131347987, 528449537, 560922640, 595165190, 598245417, 732430377, 931397637, 988578159, 327516161, 563085332, 563085334, 598245409, 988578150, 598245411, 630784018, 630784021, 933789732, 598245413, 898400257, 898400258, 933789734, 988578146, 598245415, 866025489, 563085313, 598245433, 866025487, 968065058, 563085315, 866025485, 866025482, 563085317, 988578169, 563085319, 732430399, 598245424, 598245427, 732430387, 988578167, 598245428, 933789748, 732430390, 988578162, 732430344, 988578124, 598245385, 598245390, 933789711, 968065044, 598245377, 968065050, 630784051, 732430339, 766148609, 968065055, 598245382, 968065053, 766148613, 598245400, 666435593, 766148634, 532086790, 563085346, 598245404, 988578136, 532086786, 732430365, 598245406, 666435585, 766148627, 968065034, 598245394, 766148625, 598245396, 968065039, 532086794, 666435588, 532086793, 666435590, 732430359, 988578092, 988578094, 904986677, 988578090, 601849879, 601849876, 669679654, 601849871, 534183942, 988578109, 601849869, 904986661, 466911233, 534183937, 534183945, 904986641, 568393730, 598245440, 904986648, 732430402, 669679617, 669679642, 704413708, 904986626, 704413706, 904986630, 904986633, 669679639, 669679636, 904986639, 704413699]"/>
+
+    <meta name="ajs-blueprint-blogpost-template-ids" content="[560922649, 988578023, 560922640, 881688674]"/>
+
+
+    <meta name="ajs-blueprint-creator-has-valid-license" content="true"/>
+
+    <meta name="ajs-blueprint-creator-user-can-create-space-blueprints" content="false"/>
+
+    <meta name="ajs-comala-workflows-app-enabled" content="false"/>
+
+
+    <div id="page">
+    <div id="full-height-container">
+        <div id="header-precursor">
+            <div class="cell">
+                
+                                </div>
+        </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+        
+
+
+                <div id="rw_announcement_banners" data-login-page="true"></div>
+
+        <div id="rw_wrapper" class="rw_menu_layout_v2 rw_background_full rw_corners_rounded rw_effects_off rw_header_theme_1row rw_header_height_default rw_category_menu_theme_traditional rw_content_spaces_white1 rw_content_menu_solid ">
+
+            <div id="rw_main">
+
+                <div class="rw_login_logo">
+                    <a href="/homepage.action">
+                        <img alt="" aria-label="Home page logo '" src="/s/ijv2uh/9012/8yg2g7/_/images/logo/confluence-logo.png"/>
+                    </a>
+                </div>
+
+                <div id="main" class="aui-page-panel">
+                    
+
+                    
+
+    
+        
+    <div id="login-container" >
+                <div class="login-section ">
+        <form name="loginform" method="POST" action="/dologin.action" class="aui login-form-container">
+                            <h2>로그인</h2>
+            
+
+                                        
+
+<div id="action-messages">
+                        </div>
+                    <fieldset class="compact-form-fields">
+                                
+
+    <legend class="assistive"><span>Confluence에 로그인</span></legend>
+                        <div class="field-group"><label for="os_username">사용자 이름</label><input class="text" type="text" name="os_username" id="os_username"/></div>
+                                                <div class="field-group"><label for="os_password">비밀번호</label><input class="text" type="password" name="os_password" id="os_password"/></div>
+                        
+                                                    <div class="group">
+                                                                <div class="checkbox"><input class="checkbox" type="checkbox" name="os_cookie" id="os_cookie" value="true"/><label for="os_cookie">내 컴퓨터에 로그인 정보 기록하기</label></div>
+                            </div>
+                                                <div class="field-group form-buttons compact-form-buttons ">
+                            <input id="loginButton" class="aui-button aui-style aui-button-primary" name="login" type="submit" value="로그인"/>
+                                                            <a id="forgot-password" class="aui-button aui-style aui-button-link" href="/forgotuserpassword.action">암호를 잊으셨나요?</a>
+                                                    </div>
+                        <input type="hidden" name="os_destination" value="/download/attachments/630587661/image-2023-3-14_8-52-54.png?version=1&amp;modificationDate=1678751623000&amp;api=v2"/>
+                    </fieldset>
+                                    </form>
+                </div> 
+                            </div>
+                    
+            
+                </div>
+                <!-- \#main -->
+
+
+                                
+
+
+                                
+            	
+	    
+
+                                        
+            
+            
+
+<div id="footer" role="contentinfo">
+    <section class="footer-body">
+
+                                                    
+        
+                <ul id="login-language">
+                                            <li lang="cs-CZ">
+                            <a href="/login.action?language=cs_CZ">Čeština</a>
+                        </li>
+                                            <li lang="da-DK">
+                            <a href="/login.action?language=da_DK">Dansk</a>
+                        </li>
+                                            <li lang="de-DE">
+                            <a href="/login.action?language=de_DE">Deutsch</a>
+                        </li>
+                                            <li lang="et-EE">
+                            <a href="/login.action?language=et_EE">Eesti</a>
+                        </li>
+                                            <li lang="en-GB">
+                            <a href="/login.action?language=en_GB">English (UK)</a>
+                        </li>
+                                            <li lang="en-US">
+                            <a href="/login.action?language=en_US">English (US)</a>
+                        </li>
+                                            <li lang="es-ES">
+                            <a href="/login.action?language=es_ES">Español</a>
+                        </li>
+                                            <li lang="fr-FR">
+                            <a href="/login.action?language=fr_FR">Français</a>
+                        </li>
+                                            <li lang="is-IS">
+                            <a href="/login.action?language=is_IS">Íslenska</a>
+                        </li>
+                                            <li lang="it-IT">
+                            <a href="/login.action?language=it_IT">Italiano</a>
+                        </li>
+                                            <li lang="hu-HU">
+                            <a href="/login.action?language=hu_HU">Magyar</a>
+                        </li>
+                                            <li lang="nl-NL">
+                            <a href="/login.action?language=nl_NL">Nederlands</a>
+                        </li>
+                                            <li lang="nn">
+                            <a href="/login.action?language=no_NO">Norsk</a>
+                        </li>
+                                            <li lang="pl-PL">
+                            <a href="/login.action?language=pl_PL">Polski</a>
+                        </li>
+                                            <li lang="pt-BR">
+                            <a href="/login.action?language=pt_BR">Português</a>
+                        </li>
+                                            <li lang="ro-RO">
+                            <a href="/login.action?language=ro_RO">Română</a>
+                        </li>
+                                            <li lang="sk-SK">
+                            <a href="/login.action?language=sk_SK">Slovenčina</a>
+                        </li>
+                                            <li lang="fi-FI">
+                            <a href="/login.action?language=fi_FI">Suomi</a>
+                        </li>
+                                            <li lang="sv-SE">
+                            <a href="/login.action?language=sv_SE">Svenska</a>
+                        </li>
+                                            <li lang="ru-RU">
+                            <a href="/login.action?language=ru_RU">Русский</a>
+                        </li>
+                                            <li lang="zh-CN">
+                            <a href="/login.action?language=zh_CN">中文</a>
+                        </li>
+                                            <li lang="ja-JP">
+                            <a href="/login.action?language=ja_JP">日本語</a>
+                        </li>
+                                            <li lang="ko-KR">
+                            <a href="/login.action?language=ko_KR">한국어</a>
+                        </li>
+                                    </ul>
+            
+
+        <ul id="poweredby">
+            <li class="noprint"><a href="https://www.atlassian.com/software/confluence" class="hover-footer-link" rel="nofollow">Atlassian Confluence</a>에 의해 제공 <span id='footer-build-information'>8.5.5</span></li>
+            <li class="print-only">Atlassian Confluence에 의해 인쇄됨 8.5.5</li>
+            <li class="noprint"><a href="https://support.atlassian.com/confluence-server/" class="hover-footer-link" rel="nofollow">버그 신고</a></li>
+            <li class="noprint"><a href="https://www.atlassian.com/company" class="hover-footer-link" rel="nofollow">Atlassian 새 소식</a></li>
+        </ul>
+
+        
+
+        <div id="footer-logo"><a href="https://www.atlassian.com/" rel="nofollow">Atlassian</a></div>
+
+                    <script>
+AJS.toInit(function() {
+
+    var userId = AJS.params.remoteUser;      
+    //if (userId.includes('sangyul.lee')) {
+        // alert("여기여기");
+        //document.getElementById('rw_side_menu').style.display = 'none';
+        //document.getElementById('rw_theme_header').style.display = 'none';
+        //document.getElementById('action-menu-link').style.display = 'none';
+       
+    //}
+    var pageId = AJS.Meta.get("page-id");
+
+    function fetchAttachments(start, totalFetched) {
+        AJS.$.ajax({
+            url: "/rest/api/content/" + pageId + "/child/attachment?limit=200&start=" + start,
+            type: "GET",
+            success: function(data) {
+                var attachmentCount = data.results.length;
+                totalFetched += attachmentCount;
+
+                if (attachmentCount === 200 && data._links.next) {
+                    fetchAttachments(start + 200, totalFetched);
+                } else {
+                    displayAttachmentCount(totalFetched);
+                }
+            },
+            error: function(error) {
+                console.log("첨부파일 정보를 불러오는데 실패했습니다.", error);
+            }
+        });
+    }
+
+    function displayAttachmentCount(count) {
+        if (count > 30) {
+            var color = 'black'; // 기본 색상
+
+            if (count > 100) {
+                color = 'red';
+            } else if (count > 50) {
+                color = 'blue';
+            }
+
+            AJS.$('#action-menu-link').after('<span id="attachment-count" style="color:' + color + '">(' + count + ')</span>');
+            document.getElementById('action-copy-page-link').innerHTML = '<span style="color:' + color + '"> 복사 (' + count + ')</span>';
+        }
+    }
+
+    fetchAttachments(0, 0);
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var pageId = AJS.Meta.get("page-id");
+
+    function fetchAttachments(start, totalFetched) {
+        AJS.$.ajax({
+            url: "/rest/api/content/" + pageId + "/child/attachment?limit=200&start=" + start,
+            type: "GET",
+            success: function(data) {
+                var attachmentCount = data.results.length;
+                totalFetched += attachmentCount;
+
+                if (attachmentCount === 200 && data._links.next) {
+                    fetchAttachments(start + 200, totalFetched);
+                } else {
+                    displayAttachmentCount(totalFetched);
+                }
+            },
+            error: function(error) {
+                console.log("첨부파일 정보를 불러오는데 실패했습니다.", error);
+            }
+        });
+    }
+
+    function displayAttachmentCount(count) {
+        // 'Copy' 링크 클릭 시 이벤트 리스너를 추가합니다.
+        var copyPageLink = document.getElementById('action-copy-page-link');
+        if (copyPageLink) {
+            copyPageLink.addEventListener('click', function() {
+                setTimeout(function() {
+                    var copyAttachmentsContainer = document.getElementById('copy-attachments-container');
+                    
+                    if (copyAttachmentsContainer && count > 30) {
+                        var color = 'black';
+                        if (count > 100) {
+                            color = 'red';
+                        } else if (count > 50) {
+                            color = 'blue';
+                        }
+
+                        var attachmentCountSpan = document.createElement('span');
+                        attachmentCountSpan.textContent = ' (' + count + ')';
+                        attachmentCountSpan.style.color = color;
+
+                        copyAttachmentsContainer.appendChild(attachmentCountSpan);
+                    }
+                }, 500); // 500ms 지연시간
+            });
+        }
+    }
+
+    // 첨부파일 갯수를 가져오기 시작합니다.
+    fetchAttachments(0, 0);
+});
+
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var pageId = AJS.Meta.get("page-id");
+
+    function fetchAttachments(start, totalFetched) {
+        AJS.$.ajax({
+            url: "/rest/api/content/" + pageId + "/child/attachment?limit=200&start=" + start,
+            type: "GET",
+            success: function(data) {
+                var attachmentCount = data.results.length;
+                totalFetched += attachmentCount;
+
+                if (attachmentCount === 200 && data._links.next) {
+                    fetchAttachments(start + 200, totalFetched);
+                } else {
+                    processAttachmentCount(totalFetched);
+                }
+            },
+            error: function(error) {
+                console.log("첨부파일 정보를 불러오는데 실패했습니다.", error);
+            }
+        });
+    }
+
+    function processAttachmentCount(count) {
+        if (count >= 300) {
+            // 첨부파일이 300개 이상인 경우, 'Copy' 버튼을 비활성화합니다.
+            var copyPageLink = document.getElementById('action-copy-page-link');
+            if (copyPageLink) {
+                copyPageLink.style.pointerEvents = 'none';
+                copyPageLink.style.opacity = '0.5';
+            }
+        }
+    }
+
+    // 첨부파일 갯수를 가져오기 시작합니다.
+    fetchAttachments(0, 0);
+});
+
+/** 자물쇠 아이콘에 텍스트를 달아준다 */
+function add_restrict_text() {
+    /** 제한문구 */
+    // 요소를 가져오기
+    var element = document.getElementById("content-metadata-page-restrictions");
+
+    // original-title 속성 값을 가져오기
+    var originalTitle = element.getAttribute("title");
+
+    // 값 출력
+    console.log(originalTitle);
+
+    /** 클래스 존재여부 (빨강여부)*/
+    // 요소를 가져오기
+    var element = document.getElementById("content-metadata-page-restrictions");
+    var locked = true;
+
+    // 클래스가 존재하는지 확인
+    if (element.classList.contains("aui-iconfont-unlocked")) {
+        console.log("aui-iconfont-unlocked 클래스가 존재합니다.");
+        locked = false;
+        if(element.classList.contains("restricted")) {
+            locked = true;
+        }
+    }
+
+    /**
+     * originalTitle: 자물쇠아이콘 마우스오버시 노출되는 텍스트
+     * locked: true==unlocked icon, false==lock icon
+     */
+    var existingElement = document.getElementById("page-banner-end");
+
+    // 새로운 span 요소 생성
+    var newSpanElement = document.createElement("div");
+
+    // 새로운 span 요소에 속성 추가 (예: id 및 클래스)
+    newSpanElement.setAttribute("id", "new-span-id");
+    newSpanElement.setAttribute("class", "new-span-class");
+
+    // 윗쪽 margin 설정
+    newSpanElement.style.marginTop = "10px";
+    // 새로운 span 요소에 텍스트 내용 추가
+    newSpanElement.textContent = "제한없음";
+    if(originalTitle == "Restrictions apply" || originalTitle == "제한 적용") {
+        if(locked) {
+            newSpanElement.textContent = "보기/편집 제한";
+            newSpanElement.style.color = "red";
+        } else {
+            newSpanElement.textContent = "편집 제한";
+            newSpanElement.style.color = "blue"; 
+        }
+    }
+
+    // 요소 뒤에 새로운 span 요소 추가
+    existingElement.insertAdjacentElement('afterend', newSpanElement);
+
+}
+
+// 관찰할 대상 요소를 가져오기
+var targetElement = document.getElementById("content-metadata-page-restrictions");
+
+// MutationObserver 생성
+var observer = new MutationObserver(function(mutations) {
+  // 클래스 변경 감지 시 실행할 함수 호출
+  handleClassChange();
+});
+
+// 옵저버 설정
+var config = { attributes: true, attributeFilter: ["class"] };
+observer.observe(targetElement, config);
+
+// 클래스 변경 감지 시 실행할 함수 정의
+function handleClassChange() {
+  // 여기에 실행하고자 하는 함수 또는 코드를 작성합니다.
+  console.log("클래스가 변경되었습니다!");
+  // 추가로 실행하고자 하는 함수를 호출하거나 코드를 작성할 수 있습니다.
+  // 요소를 가져오기
+  var elementToRemove = document.getElementById("new-span-id");
+
+    // 요소가 존재하는지 확인 후 삭제
+    if (elementToRemove) {
+    elementToRemove.parentNode.removeChild(elementToRemove);
+    } else {
+    console.log("삭제할 요소를 찾을 수 없습니다.");
+    }
+
+  add_restrict_text();
+}
+
+add_restrict_text();
+
+</script>
+        
+    </section>
+</div>
+
+    
+            </div>
+
+            <!-- \#rw_main -->
+                        <div class="rw_background_section_background1"></div>
+<div id='rw_popup_bg' style='display:none;'></div>
+
+        </div>
+        <!-- \#rw_wrapper -->
+
+        <div id="rw_fullscreen_bg" style="display:none;"></div>
+
+
+    </div> <!-- \#full-height-container -->
+</div><!-- \#page -->
+
+</body>
+</html>
